@@ -147,4 +147,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🙋‍♂️ Author
 
-Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
+Created by [Suyash Kusumkar]([https://harshgajjar.vercel.app](https://www.linkedin.com/in/suyash-kusumkar/))
