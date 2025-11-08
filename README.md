@@ -3,12 +3,10 @@
 AI Agent to analyze blood reports and provide detailed health insights.
 
 <p align="center">
-  <a href="https://github.com/harshhh28/hia/issues"><img src="https://img.shields.io/github/issues/harshhh28/hia"></a> 
-  <a href="https://github.com/harshhh28/hia/stargazers"><img src="https://img.shields.io/github/stars/harshhh28/hia"></a>
-  <a href="https://github.com/harshhh28/hia/network/members"><img src="https://img.shields.io/github/forks/harshhh28/hia"></a>
-  <a href="https://github.com/harshhh28/hia/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
-  </a>
+  <a href="https://github.com/yashkusumkar02/health-insights-agent/issues"><img src="https://img.shields.io/github/issues/yashkusumkar02/health-insights-agent"></a> 
+  <a href="https://github.com/yashkusumkar02/health-insights-agent/stargazers"><img src="https://img.shields.io/github/stars/yashkusumkar02/health-insights-agent"></a>
+  <a href="https://github.com/yashkusumkar02/health-insights-agent/network/members"><img src="https://img.shields.io/github/forks/yashkusumkar02/health-insights-agent"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 <p align="center">
@@ -20,7 +18,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshhh28/hia"><img src="https://raw.githubusercontent.com/harshhh28/hia/main/public/HIA_demo.gif" alt="Usage Demo"></a>
+  <a href="https://github.com/yashkusumkar02/health-insights-agent"><img src="https://raw.githubusercontent.com/harshhh28/hia/main/public/HIA_demo.gif" alt="Usage Demo"></a>
 </p>
 
 ## 🌟 Features
@@ -61,7 +59,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/harshhh28/hia.git
+git clone https://github.com/yashkusumkar02/health-insights-agent.git
 cd hia
 ```
 
