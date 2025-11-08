@@ -134,9 +134,12 @@ Thanks to all the amazing contributors who have helped improve this project!
 
 ## 👥 Contributors
 
-| Name | GitHub | Role |
-|------|--------|------|
-| **Suyash Prakash Kusumkar** | [yashkusumkar02](https://github.com/yashkusumkar02) | Project Maintainer |
+| Name | GitHub | Role | Notes |
+|------|--------|------|-------|
+| **Suyash Prakash Kusumkar** | [yashkusumkar02](https://github.com/yashkusumkar02) | Project Maintainer / Enhancements | Forked, improved documentation & setup |
+| Harsh Gajjar | [harshhh28](https://github.com/harshhh28) | Original Project Creator | Built core project under MIT License |
+| Gaurav | [gaurav98095](https://github.com/gaurav98095) | Contributor | Database schema & bug fixes |
+
 
 
 <!-- To future contributors: Your profile will be added here when your PR is merged! -->
